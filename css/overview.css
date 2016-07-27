@@ -1,0 +1,45 @@
+html{
+	overflow:hidden;
+	}
+
+
+#navbar{
+	position:relative;
+	background-color:white;
+	height:4em;
+	padding:0em;
+	padding-left:14em;
+	border:solid #00B3E7 1px;
+
+
+}
+
+#navbar a{
+	text-decoration:none;
+	}
+
+#header{
+	position:relative;
+	background-color:rgba(0,104,139,0.7);
+	height:4em;
+	padding:1em;
+
+}
+
+#tools{
+	position:relative;
+	height:450px;
+	overflow:auto;
+}
+
+#buttons{
+	float:right;
+}
+
+.panel{
+	padding:1em;
+}
+
+#itemtable{
+	margin-top:1em;
+}

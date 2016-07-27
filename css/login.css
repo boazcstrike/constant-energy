@@ -1,0 +1,58 @@
+body{
+	
+	background-size:cover;
+}
+
+#logo{
+	height:100px;
+	width:100px;
+}
+
+.headertxt{
+	font-family:segoe;
+	font-size:30px;
+	color:rgb(0,104,139);
+}
+
+#header{
+	position:relative;
+	background-color:rgba(0,104,139,0.7);
+	height:4em;
+
+}
+
+#footer{
+	position:absolute;
+	background-color:rgba(0,104,139,0.7);
+	height:4em;
+	bottom:0px;
+	width:100%;
+}
+
+#form{
+	position:fixed;
+	width:30em;
+	height:25em;
+	background-color:rgba(255,255,255,0.8);
+	border:solid white 2px;
+	border-radius:20px;
+	top:20%;
+	left:60%;
+}
+
+#formcontainer{
+	margin-top:100px;
+}
+
+.input-group{
+	width:25em;
+	margin:auto;
+}
+
+.btn{
+	width:25em;
+}
+
+.label .label-info{
+	margin:auto;
+}

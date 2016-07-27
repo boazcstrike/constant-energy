@@ -1,0 +1,39 @@
+#navbar{
+	position:relative;
+	background-color:white;
+	height:4em;
+	padding:0.5em;
+	padding-left:14em;
+	border:solid #00B3E7 1px;
+
+
+}
+
+#navbar a{
+	text-decoration:none;
+	}
+
+#header{
+	position:relative;
+	background-color:black;
+	height:4em;
+	padding:1em;
+
+}
+
+#tools{
+	position:relative;
+	height:400px;
+}
+
+#buttons{
+	float:right;
+}
+
+.panel{
+	padding:1em;
+}
+
+#itemtable{
+	margin-top:;
+}

@@ -1,0 +1,18 @@
+body{
+	overflow:hidden;
+	font-family:;
+}
+
+#header{
+	position:relative;
+	background-color:rgba(0,104,139,0.7);
+	height:4em;
+	padding:1em;
+
+}
+
+#main-panel{
+	top:100px;
+	height:400px;
+	width:500px;
+}

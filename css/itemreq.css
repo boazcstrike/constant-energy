@@ -1,0 +1,44 @@
+body{
+	background-image:url("img/bg.jpg");
+	font-family:arial, verdana, sans-serif; font-size:12pt;
+}
+
+#navbar{
+	position:relative;
+	background-color:white;
+	height:4em;
+	padding:0.5em;
+	border:solid #00B3E7 1px;
+
+
+}
+
+#header{
+	position:relative;
+	background-color:black;
+	height:4em;
+	padding:1em;
+
+}
+
+#tools{
+	position:relative;
+	height:400px;
+}
+
+#buttons{
+	float:right;
+}
+
+.panel{
+	padding:1em;
+}
+
+#itemtable{
+	margin-top:1em;
+}
+
+#formfield{
+        position:relative;
+        margin:auto;
+}

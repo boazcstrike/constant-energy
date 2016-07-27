@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"> 
+		<link rel="stylesheet" type="text/css" href="css/login.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		
+		<!--Material design-->
+		<link href="css/roboto.min.css" rel="stylesheet">
+        	<link href="css/material.min.css" rel="stylesheet">
+        	<link href="css/ripples.min.css" rel="stylesheet">
+		
+
+		<title>StockEye</title>
+	</head>
+	<body>
+		<div class="container-fluid" id="header">
+		</div>
+		
+		<center><span><img id="logo" src="css/img/logo.png"></span></center>
+		<center><h3><span class="headertxt">Constant Energy Source</span></h3></center>
+
+		
+		<div class="alert alert-warning">
+    		<h4>Warning! FOUR OH FOOUUUUR!(404)</h4>
+   		 <p>Ooops! It seems like the page you are looking for was not found. Are you forcing it? <br>
+			Just letting you know that we know your IP. <!--#echo var="REMOTE_ADDR" --></p>
+		</div>
+		
+	</body
+</html>

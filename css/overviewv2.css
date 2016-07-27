@@ -1,0 +1,62 @@
+body{
+	overflow:auto;
+}
+
+.alert{
+	margin-top:0px;
+	margin-bottom:0px;
+	}
+	
+
+
+
+#navbar{
+	position:relative;
+	background-color:white;
+	height:4em;
+	
+	padding-left:14em;
+	border:solid #00B3E7 1px;
+
+
+}
+
+#navbar a{
+	text-decoration:none;
+        background-color:white;
+        color:black;
+	}
+	
+
+
+#header{
+	position:relative;
+	background-color:rgba(0,104,139,0.7);
+	height:4em;
+	padding:1em;
+
+}
+
+#tools{
+	position:relative;
+	height:400px;
+	box-shadow:2px 2px 2px;
+	overflow:auto;
+
+}
+
+#buttons{
+	float:right;
+}
+
+.panel{
+	padding:1em;
+}
+
+#itemtable{
+	margin-top:1em;
+}
+
+#disableditemtable{
+	margin-top:1em;
+}

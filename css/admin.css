@@ -1,0 +1,57 @@
+html{
+	overflow:hidden;
+}
+
+#navbar{
+	position:relative;
+	background-color:white;
+	height:4em;
+	
+	padding-left:14em;
+	border:solid #00B3E7 1px;
+
+
+}
+
+#navbar a{
+	text-decoration:none;
+	}
+
+#header{
+	position:relative;
+	background-color:rgba(0,104,139,0.7);
+	height:4em;
+	padding:1em;
+
+}
+
+#toolstbl{
+	position:relative;
+	height:400px;
+	overflow:scroll;
+
+}
+
+
+#buttons{
+	float:right;
+}
+
+.panel{
+	padding:1em;
+}
+
+#searchbar{
+	position:relative;
+	left:-1%;
+}
+
+#accttable{
+	position:absolute;
+	width:97%;
+}
+
+#refreshbtn{
+	float:right;
+	margin-right:1%;
+}

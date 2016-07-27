@@ -1,0 +1,716 @@
+[28-Aug-2015 09:49:08 America/Denver] PHP Notice:  Undefined index: admin in /home2/stockeye/public_html/admin-overview.php on line 97
+[28-Aug-2015 09:49:28 America/Denver] PHP Notice:  Undefined index: admin in /home2/stockeye/public_html/admin-overview.php on line 97
+[28-Aug-2015 09:49:51 America/Denver] PHP Notice:  Undefined index: admin in /home2/stockeye/public_html/admin-overview.php on line 97
+[31-Aug-2015 12:48:12 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/admin.php on line 21
+[02-Sep-2015 07:35:41 America/Denver] PHP Warning:  include(): Failed opening 'php/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/monitoring-item.php on line 57
+[02-Sep-2015 07:35:41 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:35:41 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:35:41 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:35:41 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:38:15 America/Denver] PHP Warning:  include(): Failed opening 'php/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/monitoring-item.php on line 57
+[02-Sep-2015 07:38:15 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:38:15 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:38:15 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:38:15 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:39:44 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 4
+[02-Sep-2015 07:39:44 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 5
+[02-Sep-2015 07:39:44 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:39:44 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:40:15 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 4
+[02-Sep-2015 07:40:15 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 5
+[02-Sep-2015 07:40:15 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:40:15 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:40:34 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:40:40 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:40:47 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 07:40:47 America/Denver] PHP Notice:  Undefined variable: tableView in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:40:47 America/Denver] PHP Fatal error:  Call to a member function getAccountsTable() on a non-object in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:40:52 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 07:40:52 America/Denver] PHP Notice:  Undefined variable: tableView in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:40:52 America/Denver] PHP Fatal error:  Call to a member function getAccountsTable() on a non-object in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:40:56 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 07:40:56 America/Denver] PHP Notice:  Undefined variable: tableView in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:40:56 America/Denver] PHP Fatal error:  Call to a member function getAccountsTable() on a non-object in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:41:08 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 07:41:08 America/Denver] PHP Notice:  Undefined variable: tableView in /home2/stockeye/public_html/admin-overview.php on line 89
+[02-Sep-2015 07:41:08 America/Denver] PHP Fatal error:  Call to a member function getSearchedAccounts() on a non-object in /home2/stockeye/public_html/admin-overview.php on line 89
+[02-Sep-2015 07:41:12 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 07:41:12 America/Denver] PHP Notice:  Undefined variable: tableView in /home2/stockeye/public_html/admin-overview.php on line 89
+[02-Sep-2015 07:41:12 America/Denver] PHP Fatal error:  Call to a member function getSearchedAccounts() on a non-object in /home2/stockeye/public_html/admin-overview.php on line 89
+[02-Sep-2015 07:41:28 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:41:41 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 4
+[02-Sep-2015 07:41:41 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 5
+[02-Sep-2015 07:41:41 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:41:41 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:41:47 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 4
+[02-Sep-2015 07:41:47 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 5
+[02-Sep-2015 07:41:47 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:41:47 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:43:40 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 4
+[02-Sep-2015 07:43:40 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/Classes/TableView.php on line 5
+[02-Sep-2015 07:43:40 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:43:40 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/Classes/TableView.php on line 6
+[02-Sep-2015 07:47:28 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 4
+[02-Sep-2015 07:47:28 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 5
+[02-Sep-2015 07:47:28 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:47:28 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:47:40 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 4
+[02-Sep-2015 07:47:40 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 5
+[02-Sep-2015 07:47:40 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:47:40 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:49:35 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:52:30 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 4
+[02-Sep-2015 07:52:30 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 5
+[02-Sep-2015 07:52:30 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:52:30 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:52:49 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/monitoring-item.php on line 57
+[02-Sep-2015 07:52:49 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:52:49 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:52:49 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:52:49 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:52:51 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/monitoring-item.php on line 57
+[02-Sep-2015 07:52:51 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:52:51 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:52:51 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/monitoring-item.php on line 59
+[02-Sep-2015 07:52:51 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 07:56:19 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 4
+[02-Sep-2015 07:56:19 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 5
+[02-Sep-2015 07:56:19 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:56:19 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:58:23 America/Denver] PHP Warning:  include(): Failed opening '../../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 4
+[02-Sep-2015 07:58:23 America/Denver] PHP Warning:  include(): Failed opening '../DbConnection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/classes/TableView.php on line 5
+[02-Sep-2015 07:58:23 America/Denver] PHP Notice:  Undefined variable: dbconnect in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:58:23 America/Denver] PHP Fatal error:  Call to a member function connect() on a non-object in /home2/stockeye/public_html/php/classes/TableView.php on line 6
+[02-Sep-2015 07:58:57 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 07:58:57 America/Denver] PHP Notice:  Undefined variable: tableView in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:58:57 America/Denver] PHP Fatal error:  Call to a member function getAccountsTable() on a non-object in /home2/stockeye/public_html/admin-overview.php on line 91
+[02-Sep-2015 07:59:49 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 08:00:04 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 08:02:20 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 08:02:24 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 08:03:01 America/Denver] PHP Warning:  include(): Failed opening 'php/TableView.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/admin-overview.php on line 15
+[02-Sep-2015 08:07:17 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/TableView.php on line 4
+[02-Sep-2015 08:07:17 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:07:17 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:07:17 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:07:17 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 08:10:14 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/TableView.php on line 4
+[02-Sep-2015 08:10:14 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:10:14 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:10:14 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:10:14 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 08:13:02 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/TableView.php on line 4
+[02-Sep-2015 08:13:02 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:13:02 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:13:02 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:13:02 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 08:13:06 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/TableView.php on line 4
+[02-Sep-2015 08:13:06 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:13:06 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:13:06 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:13:06 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 08:15:44 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/TableView.php on line 4
+[02-Sep-2015 08:15:44 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:15:44 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:15:44 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:15:44 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 08:16:42 America/Denver] PHP Warning:  include(): Failed opening '../../files/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/stockeye/public_html/php/TableView.php on line 4
+[02-Sep-2015 08:16:42 America/Denver] PHP Notice:  Undefined variable: DBuser in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:16:42 America/Denver] PHP Notice:  Undefined variable: DBpass in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:16:42 America/Denver] PHP Notice:  Undefined variable: DBurl in /home2/stockeye/public_html/php/TableView.php on line 6
+[02-Sep-2015 08:16:42 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/php/DbConnection.php on line 7
+[02-Sep-2015 08:18:10 America/Denver] PHP Fatal error:  Cannot redeclare class DbConnection in /home2/stockeye/public_html/php/DbConnection.php on line 3
+[02-Sep-2015 08:18:14 America/Denver] PHP Fatal error:  Cannot redeclare class DbConnection in /home2/stockeye/public_html/php/DbConnection.php on line 3
+[02-Sep-2015 08:19:18 America/Denver] PHP Fatal error:  Cannot redeclare class DbConnection in /home2/stockeye/public_html/php/DbConnection.php on line 3
+[02-Sep-2015 08:28:58 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 90
+[02-Sep-2015 08:29:38 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 89
+[02-Sep-2015 08:29:41 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 89
+[02-Sep-2015 08:29:43 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 89
+[02-Sep-2015 08:29:43 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 89
+[02-Sep-2015 08:30:37 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:30:42 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:31:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:32:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:32:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:33:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:34:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:34:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 104
+[02-Sep-2015 08:35:09 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:12 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:35:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 100
+[02-Sep-2015 08:42:33 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 83
+[02-Sep-2015 08:49:28 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 83
+[02-Sep-2015 08:49:56 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 83
+[02-Sep-2015 08:50:09 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 83
+[02-Sep-2015 08:52:05 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 83
+[02-Sep-2015 08:53:32 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/stockeye/public_html/overview.php on line 88
+[02-Sep-2015 08:53:44 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/stockeye/public_html/overview.php on line 88
+[02-Sep-2015 08:58:07 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/stockeye/public_html/overview.php on line 88
+[02-Sep-2015 08:58:11 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/stockeye/public_html/overview.php on line 88
+[02-Sep-2015 09:04:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home2/stockeye/public_html/overview.php on line 86
+[02-Sep-2015 09:06:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home2/stockeye/public_html/overview.php on line 86
+[02-Sep-2015 09:07:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home2/stockeye/public_html/overview.php on line 86
+[02-Sep-2015 09:13:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 61
+[02-Sep-2015 09:18:06 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 92
+[02-Sep-2015 09:19:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:19:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:19:49 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:19:54 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:20:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:20:33 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:20:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:20:38 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:20:45 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:23:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 61
+[02-Sep-2015 09:23:46 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:23:48 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:25:40 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:25:41 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:25:41 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 09:29:09 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[02-Sep-2015 10:24:41 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 23
+[02-Sep-2015 10:24:44 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/admin-overview.php on line 34
+[02-Sep-2015 10:24:45 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/itemreq.php on line 17
+[02-Sep-2015 10:24:47 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[02-Sep-2015 10:27:13 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 23
+[02-Sep-2015 10:29:53 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 28
+[02-Sep-2015 10:31:26 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/admin-overview.php on line 37
+[05-Sep-2015 04:22:39 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[05-Sep-2015 04:22:41 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[05-Sep-2015 11:58:01 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[05-Sep-2015 11:58:03 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[05-Sep-2015 20:12:54 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 102
+[05-Sep-2015 20:12:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 102
+[05-Sep-2015 20:12:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 102
+[06-Sep-2015 11:38:53 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[07-Sep-2015 10:08:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[07-Sep-2015 10:08:53 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[07-Sep-2015 10:44:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[07-Sep-2015 10:49:15 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 05:07:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 05:18:39 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 24
+[09-Sep-2015 05:18:46 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[09-Sep-2015 05:19:00 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/itemreq.php on line 17
+[09-Sep-2015 05:19:18 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/admin-overview.php on line 34
+[09-Sep-2015 05:19:36 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[09-Sep-2015 08:23:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 08:23:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 09:05:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 09:05:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 09:06:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 09:45:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 85
+[09-Sep-2015 10:01:25 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 10:01:28 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 10:09:38 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 10:35:53 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 10:41:19 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:40:02 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:40:03 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:46:20 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:46:32 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:46:42 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:46:42 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:53:06 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:53:07 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:54:03 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:54:04 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:54:04 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:54:05 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:57:53 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:57:54 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:58:09 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[09-Sep-2015 23:58:09 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home2/stockeye/public_html/overview.php on line 85
+[10-Sep-2015 00:57:32 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[10-Sep-2015 00:57:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[10-Sep-2015 00:59:04 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[10-Sep-2015 01:02:44 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[10-Sep-2015 01:03:53 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 83
+[10-Sep-2015 01:06:53 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/overview.php on line 93
+[10-Sep-2015 01:12:08 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[10-Sep-2015 01:30:08 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 24
+[10-Sep-2015 01:30:11 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/overview.php on line 32
+[10-Sep-2015 01:30:27 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 24
+[10-Sep-2015 09:13:07 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/home.php on line 24
+[11-Sep-2015 00:28:28 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 00:49:56 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 00:50:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 00:57:50 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 01:10:59 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 01:11:03 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 01:11:05 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 01:32:09 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 07:43:44 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:32:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:32:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:32:47 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:32:47 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:10 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:10 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:16 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:16 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:21 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:33:22 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:34:04 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation-add.php on line 22
+[11-Sep-2015 17:34:10 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation-add.php on line 22
+[11-Sep-2015 17:34:13 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation-remove.php on line 22
+[11-Sep-2015 17:34:14 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation-update.php on line 22
+[11-Sep-2015 17:34:15 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:34:15 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:34:17 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation-update.php on line 22
+[11-Sep-2015 17:34:18 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[11-Sep-2015 17:34:19 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring.php on line 21
+[11-Sep-2015 17:34:21 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/itemreq.php on line 17
+[11-Sep-2015 17:34:22 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:34:23 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[11-Sep-2015 17:34:24 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/itemreq.php on line 17
+[12-Sep-2015 23:02:08 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:02:12 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:15:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:17:10 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:17:13 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:29:36 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:29:46 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:29:58 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:30:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:30:49 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:31:20 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 115
+[12-Sep-2015 23:31:36 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 94
+[12-Sep-2015 23:32:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 94
+[12-Sep-2015 23:36:55 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:36:55 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:36:55 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:36:55 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:38:46 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:38:46 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:38:46 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:38:46 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:39:17 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:39:17 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:39:17 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:39:17 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:48:03 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:48:03 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:48:03 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:48:03 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:48:05 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:48:05 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:48:05 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:48:05 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:48:06 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:48:06 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:48:06 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:48:06 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:56:49 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:56:49 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:56:49 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:56:49 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[12-Sep-2015 23:59:11 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:34 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[13-Sep-2015 00:02:34 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[13-Sep-2015 00:02:34 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[13-Sep-2015 00:02:35 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[13-Sep-2015 00:02:35 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/pendingrequests.php on line 23
+[13-Sep-2015 00:02:37 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring.php on line 21
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:46 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:50 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 119
+[13-Sep-2015 00:02:50 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 119
+[13-Sep-2015 00:02:50 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 122
+[13-Sep-2015 00:02:50 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 122
+[13-Sep-2015 00:02:52 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 119
+[13-Sep-2015 00:02:52 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 119
+[13-Sep-2015 00:02:52 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 122
+[13-Sep-2015 00:02:52 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 122
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:54 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:02:56 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:03:55 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:07:44 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:10:02 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 93
+[13-Sep-2015 00:12:08 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:12:08 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:12:08 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:12:08 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:12:08 America/Denver] PHP Notice:  Undefined variable: baseline_quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:12:08 America/Denver] PHP Notice:  Undefined variable: quantity in /home2/stockeye/public_html/php/TableView.php on line 90
+[13-Sep-2015 00:15:11 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/php/TableView.php on line 94
+[13-Sep-2015 05:40:05 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation.php on line 22
+[13-Sep-2015 05:40:09 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation-add.php on line 22
+[13-Sep-2015 08:16:48 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 212
+[13-Sep-2015 08:17:38 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 207
+[13-Sep-2015 08:17:39 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 207
+[13-Sep-2015 08:18:01 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 212
+[13-Sep-2015 08:19:39 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 219
+[13-Sep-2015 08:19:40 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 219
+[13-Sep-2015 08:19:43 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 219
+[13-Sep-2015 08:21:01 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 165
+[13-Sep-2015 08:21:02 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 165
+[13-Sep-2015 08:21:58 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 197
+[13-Sep-2015 08:22:00 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 197
+[13-Sep-2015 08:22:23 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 197
+[13-Sep-2015 08:23:50 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:23:51 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:24:52 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/overviewv2.php on line 32
+[13-Sep-2015 08:24:54 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/overviewv2.php on line 32
+[13-Sep-2015 08:24:55 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/overviewv2.php on line 32
+[13-Sep-2015 08:24:57 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home2/stockeye/public_html/overviewv2.php on line 32
+[13-Sep-2015 08:31:02 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:31:28 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 153
+[13-Sep-2015 08:31:29 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 153
+[13-Sep-2015 08:31:31 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 153
+[13-Sep-2015 08:31:32 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 153
+[13-Sep-2015 08:35:15 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:35:17 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:36:04 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:36:06 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 164
+[13-Sep-2015 08:38:21 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 202
+[13-Sep-2015 08:38:22 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/stockeye/public_html/overviewv2.php on line 202
+[13-Sep-2015 08:38:45 America/Denver] PHP Notice:  Undefined variable: request in /home2/stockeye/public_html/overviewv2.php on line 163
+[16-Sep-2015 23:14:41 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/manipulation.php on line 22
+[19-Sep-2015 04:43:27 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:43:30 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:43:35 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:43:40 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:43:51 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:44:02 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:44:03 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:44:21 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:44:31 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:44:34 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:46:26 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:46:29 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:46:31 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:53:08 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:54:23 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:54:25 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:54:28 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:54:31 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:54:35 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:55:53 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:55:55 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:55:58 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:56:00 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:56:07 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:59:38 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 04:59:39 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 05:01:44 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 05:01:54 America/Denver] PHP Parse error:  syntax error, unexpected '$errorHandler' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/stockeye/public_html/php/errors.php on line 59
+[19-Sep-2015 10:27:36 America/Denver] PHP Notice:  Undefined index: item_id in /home2/stockeye/public_html/pendingrequests.php on line 60
+[19-Sep-2015 10:32:35 America/Denver] PHP Notice:  Undefined index: item_id in /home2/stockeye/public_html/pendingrequests.php on line 60
+[19-Sep-2015 11:42:44 America/Denver] PHP Parse error:  syntax error, unexpected '$connection' (T_VARIABLE) in /home2/stockeye/public_html/useroverview.php on line 170
+[19-Sep-2015 21:45:16 America/Denver] PHP Notice:  Undefined index: admin in /home2/stockeye/public_html/index.php on line 46
+[19-Sep-2015 22:53:24 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:54:19 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:54:29 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:54:50 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:04 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:06 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:08 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:10 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:32 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:34 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:55:34 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:56:57 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[19-Sep-2015 22:56:58 America/Denver] PHP Notice:  Undefined index: status in /home2/stockeye/public_html/php/TableView.php on line 105
+[20-Sep-2015 01:19:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 61
+[20-Sep-2015 01:19:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 61
+[20-Sep-2015 01:19:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 61
+[20-Sep-2015 01:19:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 61
+[20-Sep-2015 01:22:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-item.php on line 62
+[20-Sep-2015 01:22:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-item.php on line 62
+[20-Sep-2015 03:32:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 252
+[20-Sep-2015 03:33:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/php/TableView.php on line 252
+[20-Sep-2015 05:56:21 America/Denver] PHP Notice:  Undefined index: Value in /home2/stockeye/public_html/monitoring-item.php on line 69
+[20-Sep-2015 05:56:23 America/Denver] PHP Notice:  Undefined index: Value in /home2/stockeye/public_html/monitoring-item.php on line 69
+[20-Sep-2015 05:56:24 America/Denver] PHP Notice:  Undefined index: Value in /home2/stockeye/public_html/monitoring-item.php on line 69
+[25-Sep-2015 03:38:28 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[25-Sep-2015 03:38:30 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[25-Sep-2015 03:44:30 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[11-Oct-2015 07:19:51 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/stockeye/public_html/useroverview.php on line 186
+[11-Oct-2015 07:19:54 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/stockeye/public_html/useroverview.php on line 186
+[13-Oct-2015 09:05:46 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:05:46 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:05:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 32
+[13-Oct-2015 09:10:32 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:10:32 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:10:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 32
+[13-Oct-2015 09:13:10 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:13:10 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:13:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 32
+[13-Oct-2015 09:15:13 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:15:13 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:15:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 32
+[13-Oct-2015 09:19:05 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:19:05 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 31
+[13-Oct-2015 09:19:05 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 32
+[13-Oct-2015 09:26:21 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 36
+[13-Oct-2015 09:26:21 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 36
+[13-Oct-2015 09:26:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 37
+[13-Oct-2015 09:38:46 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 36
+[13-Oct-2015 09:38:46 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 36
+[13-Oct-2015 09:38:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 37
+[13-Oct-2015 09:38:53 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 36
+[13-Oct-2015 09:38:53 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 36
+[13-Oct-2015 09:38:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 37
+[13-Oct-2015 09:43:32 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:43:32 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:43:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 09:43:32 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:43:32 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:45:53 America/Denver] PHP Parse error:  syntax error, unexpected '$stringResult' (T_VARIABLE) in /home2/stockeye/public_html/chartanalytics.php on line 48
+[13-Oct-2015 09:45:56 America/Denver] PHP Parse error:  syntax error, unexpected '$stringResult' (T_VARIABLE) in /home2/stockeye/public_html/chartanalytics.php on line 48
+[13-Oct-2015 09:46:56 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:46:56 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:46:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 09:46:56 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:46:56 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:46:56 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/stockeye/public_html/monitoring-item.php on line 104
+[13-Oct-2015 09:47:30 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/stockeye/public_html/monitoring-item.php on line 98
+[13-Oct-2015 09:48:09 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/stockeye/public_html/monitoring-item.php on line 98
+[13-Oct-2015 09:48:33 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/stockeye/public_html/monitoring-item.php on line 96
+[13-Oct-2015 09:49:55 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:49:55 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:49:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 09:49:55 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:49:55 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:53:36 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:53:36 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:53:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 09:53:36 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:53:36 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:54:11 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:54:11 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:54:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 09:54:11 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:54:11 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 09:56:28 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 49
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 49
+[13-Oct-2015 09:56:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 50
+[13-Oct-2015 09:58:40 America/Denver] PHP Parse error:  syntax error, unexpected '$resultitems' (T_VARIABLE) in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:00:31 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:00:31 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:00:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:00:31 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:00:31 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:03:42 America/Denver] PHP Parse error:  syntax error, unexpected '$resultitems' (T_VARIABLE) in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:08:43 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:08:43 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:08:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:08:43 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:08:43 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:08:43 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 131
+[13-Oct-2015 10:11:07 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:11:07 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:11:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:11:07 America/Denver] PHP Notice:  Undefined variable: resultitems in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:11:07 America/Denver] PHP Warning:  implode(): Invalid arguments passed in /home2/stockeye/public_html/chartanalytics.php on line 11
+[13-Oct-2015 10:11:07 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 131
+[13-Oct-2015 10:13:29 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:13:29 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:13:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:13:29 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:13:29 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 130
+[13-Oct-2015 10:13:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:13:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:13:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:13:30 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:13:30 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 130
+[13-Oct-2015 10:15:12 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/stockeye/public_html/monitoring-item.php on line 150
+[13-Oct-2015 10:16:08 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:16:08 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:16:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:16:08 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:16:08 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 130
+[13-Oct-2015 10:16:12 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/stockeye/public_html/monitoring-item.php on line 150
+[13-Oct-2015 10:19:24 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/stockeye/public_html/monitoring-item.php on line 148
+[13-Oct-2015 10:20:36 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/stockeye/public_html/monitoring-item.php on line 149
+[13-Oct-2015 10:21:42 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:21:42 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:21:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:21:42 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:21:42 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 130
+[13-Oct-2015 10:24:14 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:24:14 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:24:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:24:14 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:24:14 America/Denver] PHP Notice:  Undefined variable: stringResult in /home2/stockeye/public_html/chartanalytics.php on line 132
+[13-Oct-2015 10:25:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:25:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:25:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:25:28 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:25:33 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:25:33 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:25:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:25:33 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:26:19 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:26:19 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:26:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:26:19 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:33:07 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:33:07 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:33:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:33:07 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:33:08 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'stockeye'@'localhost' (using password: NO) in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:33:08 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/chartanalytics.php on line 3
+[13-Oct-2015 10:33:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/chartanalytics.php on line 4
+[13-Oct-2015 10:33:08 America/Denver] PHP Notice:  Undefined variable: chartData in /home2/stockeye/public_html/chartanalytics.php on line 47
+[13-Oct-2015 10:34:13 America/Denver] PHP Notice:  Array to string conversion in /home2/stockeye/public_html/chartanalytics.php on line 133
+[13-Oct-2015 10:35:36 America/Denver] PHP Notice:  Array to string conversion in /home2/stockeye/public_html/chartanalytics.php on line 141
+[13-Oct-2015 22:36:14 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:20:16 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring.php on line 21
+[15-Oct-2015 19:20:18 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[15-Oct-2015 19:20:19 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[15-Oct-2015 19:20:20 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:20:21 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[15-Oct-2015 19:20:21 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[15-Oct-2015 19:20:25 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:20:26 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:20:28 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[15-Oct-2015 19:20:33 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[15-Oct-2015 19:43:52 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring.php on line 21
+[15-Oct-2015 19:43:56 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[15-Oct-2015 19:43:57 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:43:57 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:43:59 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:02 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:02 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:44:03 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:04 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:07 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:07 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-item.php on line 21
+[15-Oct-2015 19:44:09 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/monitoring-user.php on line 26
+[15-Oct-2015 19:44:10 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[15-Oct-2015 19:44:10 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[15-Oct-2015 19:44:12 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:12 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/requesthistory.php on line 23
+[15-Oct-2015 19:44:17 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[15-Oct-2015 19:44:21 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[15-Oct-2015 19:44:24 America/Denver] PHP Notice:  Undefined index: EmpName in /home2/stockeye/public_html/chartanalytics.php on line 87
+[16-Oct-2015 09:06:15 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home2/stockeye/public_html/confirm-receipt.php on line 10
+[16-Oct-2015 09:07:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/stockeye/public_html/confirm-receipt.php on line 25
+[16-Oct-2015 09:08:19 America/Denver] PHP Notice:  Undefined index: requestid in /home2/stockeye/public_html/confirm-receipt.php on line 12
+[16-Oct-2015 09:08:19 America/Denver] PHP Notice:  Undefined index: reference_num in /home2/stockeye/public_html/confirm-receipt.php on line 13
+[17-Oct-2015 22:15:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[17-Oct-2015 22:16:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[17-Oct-2015 22:16:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[17-Oct-2015 22:17:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[17-Oct-2015 22:21:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[17-Oct-2015 22:21:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[17-Oct-2015 22:23:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/useroverview.php on line 180
+[19-Oct-2015 06:27:47 America/Denver] PHP Parse error:  syntax error, unexpected 'margin' (T_STRING), expecting ',' or ';' in /home2/stockeye/public_html/php/errors.php on line 55
+[21-Oct-2015 11:41:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring-user.php on line 80
+[21-Oct-2015 11:44:42 America/Denver] PHP Fatal error:  Call to a member function setTimeZone() on a non-object in /home2/stockeye/public_html/monitoring-user.php on line 84
+[21-Oct-2015 11:44:47 America/Denver] PHP Fatal error:  Call to a member function setTimeZone() on a non-object in /home2/stockeye/public_html/monitoring-user.php on line 84
+[22-Oct-2015 01:54:46 Asia/Singapore] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home2/stockeye/public_html/monitoring-user.php on line 92
+[21-Oct-2015 11:58:22 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTimeZone::__construct(): Unknown or bad timezone (def_tz)' in /home2/stockeye/public_html/monitoring-user.php:85
+Stack trace:
+#0 /home2/stockeye/public_html/monitoring-user.php(85): DateTimeZone->__construct('def_tz')
+#1 {main}
+  thrown in /home2/stockeye/public_html/monitoring-user.php on line 85
+[21-Oct-2015 12:00:48 America/Denver] PHP Parse error:  syntax error, unexpected '$log_date' (T_VARIABLE) in /home2/stockeye/public_html/monitoring-user.php on line 86
+[21-Oct-2015 12:01:05 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTimeZone::__construct(): Unknown or bad timezone (def_tz)' in /home2/stockeye/public_html/monitoring-user.php:86
+Stack trace:
+#0 /home2/stockeye/public_html/monitoring-user.php(86): DateTimeZone->__construct('def_tz')
+#1 {main}
+  thrown in /home2/stockeye/public_html/monitoring-user.php on line 86
+[21-Oct-2015 12:17:03 America/Denver] PHP Notice:  Undefined index: Time in /home2/stockeye/public_html/pendingrequests.php on line 84
+[29-Nov-2015 01:12:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:12:05 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:12:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:12:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:12:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:14:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:14:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:14:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:16:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 11
+[29-Nov-2015 01:27:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 19
+[29-Nov-2015 01:27:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/querytesting.php on line 19
+[29-Nov-2015 01:30:10 America/Denver] PHP Notice:  Undefined index: Item_name in /home2/stockeye/public_html/querytesting.php on line 20
+[29-Nov-2015 01:31:57 America/Denver] PHP Notice:  Undefined index: Item_name in /home2/stockeye/public_html/querytesting.php on line 20
+[29-Nov-2015 01:32:43 America/Denver] PHP Notice:  Undefined index: Item_name in /home2/stockeye/public_html/querytesting.php on line 20
+[29-Nov-2015 01:33:29 America/Denver] PHP Notice:  Undefined index: Item_name in /home2/stockeye/public_html/querytesting.php on line 20
+[01-Dec-2015 11:59:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/monitoring.php on line 42
+[01-Dec-2015 11:59:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/monitoring.php on line 42
+[01-Dec-2015 11:59:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring.php on line 44
+[01-Dec-2015 11:59:31 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/stockeye/public_html/monitoring.php on line 42
+[01-Dec-2015 11:59:31 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/stockeye/public_html/monitoring.php on line 42
+[01-Dec-2015 11:59:31 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/stockeye/public_html/monitoring.php on line 44
